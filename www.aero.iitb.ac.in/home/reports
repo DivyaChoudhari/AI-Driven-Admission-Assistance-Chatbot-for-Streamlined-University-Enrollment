@@ -1,0 +1,303 @@
+<!DOCTYPE html><html lang="en" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js"><head>
+<meta charset="utf-8">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="/www.aero.iitb.ac.in/home/reports">
+<link rel="shortlink" href="/www.aero.iitb.ac.in/home/node/153">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="https://www.aero.iitb.ac.in/home/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon">
+<title>Reports | Department of Aerospace Engineering</title>
+<style type="text/css" media="all">
+@import url("https://www.aero.iitb.ac.in/home/modules/system/system.base.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/system/system.menus.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/system/system.messages.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/system/system.theme.css?s4xsb2");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox_node/colorbox_node.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/comment/comment.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/field/theme/field.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/node/node.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/radix_layouts/radix_layouts.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/search/search.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/modules/user/user.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/extlink/css/extlink.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/views/css/views.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/ckeditor/css/ckeditor.css?s4xsb2");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox/styles/default/colorbox_style.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/ctools/css/ctools.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/modules/panels/css/panels.css?s4xsb2");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/style.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/css/responsive.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/css/bootstrap.css?s4xsb2");
+@import url("https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/new.css?s4xsb2");
+</style>
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-K2KDR0CSKV&amp;cx=c&amp;_slc=1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-MRXN5QBP4D&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/jquery_update%20%282%29/replace/jquery/1.12/jquery.min.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/jquery-extend-3.4.0.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/drupal.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/jquery_update%20%282%29/js/jquery_browser.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/ajax.js?v=7.94"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/jquery_update%20%282%29/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/libraries/colorbox/jquery.colorbox-min.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox/js/colorbox.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox/styles/default/colorbox_style.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox/js/colorbox_load.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox/js/colorbox_inline.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/google_analytics/googleanalytics.js?s4xsb2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-102175161-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga('create', 'UA-30003804-1', 'auto', 'clientTracker');
+ga('clientTracker.send', 'pageview');
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/extlink/js/extlink.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/misc/progress.js?v=7.94"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/modules/colorbox_node/colorbox_node.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/retina.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/plugins.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/global.js?s4xsb2"></script>
+<script type="text/javascript" src="https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/new.js?s4xsb2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/home\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"venture_theme","theme_token":"6GXsqksNxG60LZf9ZDIdozb_dxq1wltDBgl8xwIcAr8","jquery_version":"1.12","jquery_version_token":"ieec774EerYUYha68eOIL1AZvrA30u-qHhVCrJupgqw","js":{"sites\/all\/modules\/jquery_update (2)\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update (2)\/js\/jquery_browser.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update (2)\/js\/jquery_update.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/extlink\/js\/extlink.js":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/venture_theme\/js\/retina.js":1,"sites\/all\/themes\/venture_theme\/js\/plugins.js":1,"sites\/all\/themes\/venture_theme\/js\/global.js":1,"sites\/all\/themes\/venture_theme\/js\/new.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/venture_theme\/style.css":1,"sites\/all\/themes\/venture_theme\/css\/responsive.css":1,"sites\/all\/themes\/venture_theme\/css\/bootstrap.css":1,"sites\/all\/themes\/venture_theme\/js\/new.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/home\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-153 node-type-page">
+    
+
+
+<div id="wrap">
+  <div id="header-wrap" class="clr fixed-header">
+    <header id="header" class="site-header clr container">
+    <br>
+      <div id="logo" class="clr">
+                <div id="site-logo"><a href="/www.aero.iitb.ac.in/home/" title="Home">
+          <img src="https://www.aero.iitb.ac.in/home/sites/all/themes/venture_theme/logo.png" alt="Home">
+			
+        </a></div>
+<div class="snd">
+				<h2 id="site-name">
+		<a href="/www.aero.iitb.ac.in/home/">Department of Aerospace Engineering</a>
+		</h2>
+		        </div>
+
+
+
+
+
+              </div>
+
+<br>
+      <div id="sidr-close"><a href="#sidr-close" class="toggle-sidr-close"></a></div>
+      <div id="site-navigation-wrap">
+        <a href="#sidr-main" id="navigation-toggle"><span class="fa fa-bars"></span>Menu</a>
+        <nav id="site-navigation" class="navigation main-navigation clr" role="navigation">
+          <div id="main-menu" class="menu-main-container">
+            <ul class="menu sf-js-enabled"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/">Home</a></li>
+<li class="expanded active-trail"><a href="/www.aero.iitb.ac.in/home/about" class="active-trail sf-with-ul">About<i class="fa fa-angle-down"></i></a><ul class="menu" style="display: none;"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/history">History</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/head-of-department">Head Of Department</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/vision-mission">Vision &amp; Mission</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/how-to-reach-us">How to Reach Us</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/industrial-relations">Industrial Relations</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/handbook">Handbook</a></li>
+<li class="leaf active-trail"><a href="/www.aero.iitb.ac.in/home/reports" class="active-trail active">Reports</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded"><a href="/www.aero.iitb.ac.in/home/academics" class="sf-with-ul">Academics<i class="fa fa-angle-down"></i></a><ul class="menu" style="display: none;"><li class="first expanded"><a href="/www.aero.iitb.ac.in/home/admission" class="sf-with-ul">Admissions<i class="fa fa-angle-right"></i></a><ul class="menu" style="display: none;"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/postgraduate-program">Postgraduate Program</a></li>
+<li class="leaf"><a href="https://www.ir.iitb.ac.in/en/students/scholarship-foreign-phd-students" title="PhD for Foreign students">PhD for International students</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/undergraduate-program">Undergraduate Program</a></li>
+</ul></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/curriculum">Curriculum</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/seminars-projects">Seminars / Projects Guidelines</a></li>
+</ul></li>
+<li class="expanded"><a href="/www.aero.iitb.ac.in/home/research" class="sf-with-ul">Research<i class="fa fa-angle-down"></i></a><ul class="menu" style="display: none;"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/aerodynamics">Aerodynamics</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/controls">Dynamics and Control</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/propulsion">Propulsion</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/structures">Structures</a></li>
+</ul></li>
+<li class="expanded"><a href="/www.aero.iitb.ac.in/home/people" class="sf-with-ul">People<i class="fa fa-angle-down"></i></a><ul class="menu" style="display: none;"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/people/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/people/former-faculty" title="">Former Faculty</a></li>
+<li class="last collapsed"><a href="/www.aero.iitb.ac.in/home/staff">Department Staff</a></li>
+</ul></li>
+<li class="expanded"><a href="/www.aero.iitb.ac.in/home/careers" class="sf-with-ul">Careers<i class="fa fa-angle-down"></i></a><ul class="menu" style="display: none;"><li class="first leaf"><a href="/www.aero.iitb.ac.in/home/careers/faculty-positions">Faculty Positions</a></li>
+<li class="leaf"><a href="http://www.iitb.ac.in/en/careers/staff-recruitment" title="">Staff Positions</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/content/project-staff-positions">Project Staff - Positions</a></li>
+</ul></li>
+<li class="leaf"><a href="https://sites.google.com/iitb.ac.in/iitdroneflyingportal/home" title="Drone Flying Portal" target="_blank" data-extlink="">Drones</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/gallery">Gallery</a></li>
+<li class="leaf"><a href="/www.aero.iitb.ac.in/home/video-gallery">Video Gallery</a></li>
+<li class="last leaf"><a href="/www.aero.iitb.ac.in/home/content/faculty-resources">Internal Links</a></li>
+</ul>          </div>
+        </nav>
+      </div>
+    </header>
+  </div>
+
+  
+
+  
+
+  <div id="main" class="site-main container clr">
+        <div id="primary" class="content-area clr">
+      <section id="content" role="main" class="site-content  clr">
+        <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="/www.aero.iitb.ac.in/home/">Home</a> » <a href="/www.aero.iitb.ac.in/home/about">About</a> » Reports</nav></div>                        <div id="content-wrap">
+               <h1 id="page-title">
+           Reports     </h1>
+          
+                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                        <span property="dc:title" content="Reports" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+ <a href="pdf/DJ_report_aero_2ndFeb2019.pdf" target="_blank">Diamond Jubilee Meet and Panel Discussion</a> - 2nd February 2019
+</p>
+</div></div></div>  </div>
+
+      <footer>
+          </footer>
+  
+    </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+      </section>
+
+          </div>
+  </div>
+
+    <div id="footer-wrap" class="site-footer clr">
+    <div id="footer" class="clr container">
+              <div id="footer-block-wrap" class="clr">
+          <div class="span_1_of_4 col col-1 footer-block ">
+            <div class="region region-footer-first">
+  <div id="block-block-1" class="block block-block">
+
+        <h2><span>Academics</span></h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.iitb.ac.in/en/education/academic-divisions" title="">Academic Divisions</a></li>
+<li class="leaf"><a href="http://www.iitb.ac.in/newacadhome/timetable.jsp" title="">Academic Time table</a></li>
+<li class="leaf"><a href="http://www.iitb.ac.in/newacadhome/toacadcalender.jsp" title="">Academic Calendar</a></li>
+<li class="leaf"><a href="http://www.iitb.ac.in/en/entrance-exams" title="">Entrance exams</a></li>
+<li class="leaf"><a href="https://www.aero.iitb.ac.in/home/minor" title="">Minor Courses</a></li>
+<li class="last leaf"><a href="http://www.library.iitb.ac.in/" title="">Central Library</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>          <div class="span_1_of_4 col col-2 footer-block ">
+            <div class="region region-footer-second">
+  <div id="block-block-8" class="block block-block">
+
+        <h2><span>Research</span></h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/WorkOpportunities.jsp" title="">R&amp;D Jobs</a></li>
+<li class="leaf"><a href="http://www.ircc.iitb.ac.in/fellowship/" title="">Internships</a></li>
+<li class="leaf"><a href="http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/WebExpertiesSearch.jsp" title="">Areas of Expertise</a></li>
+<li class="leaf"><a href="http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/Licensing.jsp" title="">Technologies for Licensing</a></li>
+<li class="leaf"><a href="http://www.ircc.iitb.ac.in/IRCC-Webpage/rnd/DisplayResearchPapersData.jsp" title="">Research Publications</a></li>
+<li class="last leaf"><a href="http://www.iitb.ac.in/safety/" title="">Laboratory Safety</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>          <div class="span_1_of_4 col col-3 footer-block ">
+            <div class="region region-footer-third">
+  <div id="block-block-9" class="block block-block">
+
+        <h2><span>Explore IITB</span></h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://iitb.ac.in/en/about-iit-bombay/campus-map" title="">Campus Map</a></li>
+<li class="leaf"><a href="http://gymkhana.iitb.ac.in/" title="">Gymkhana</a></li>
+<li class="leaf"><a href="http://iitb.ac.in/en/activities/regular-institute-events" title="">Student Events</a></li>
+<li class="last leaf"><a href="http://iitb.ac.in/en/activities/campus-diary" title="">Campus Diary</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>          <div class="span_1_of_4 col col-4 footer-block ">
+            <div class="region region-footer-fourth">
+  <div id="block-block-10" class="block block-block">
+
+        <h2><span>Internal Links</span></h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://varuna.aero.iitb.ac.in/docs/index.php/login" target="_blank">Own Cloud</a> </li>
+<li class="leaf"><a href="https://varuna.aero.iitb.ac.in/room-booking/Web/view-calendar.php" target="_blank">Room - Booking Portal</a></li>
+<!--<li class="leaf"><a href="https://varuna.aero.iitb.ac.in/moodle/login/index.php" target="_blank">Moodle</a></li>--><li class="leaf"><a href="https://vayu.aero.iitb.ac.in/" target="_blank">Webmail</a></li>
+<li class="leaf"><a href="https://support.iitb.ac.in/support/login.jsp" target="_blank">Complaints</a></li>
+<li class="leaf"><a href="sitemap" target="_blank">Site Map</a></li>
+<li class="last leaf"><a href="https://www.aero.iitb.ac.in/home/secure_login_for_admin" target="_blank">Login</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>        </div>
+            
+          </div>
+  </div>
+  
+  <footer id="copyright-wrap" class="clear">
+    <div id="copyright">Copyright © 2025, &nbsp; <a href="/www.aero.iitb.ac.in/home/">Department of Aerospace Engineering</a>.</div>
+  </footer>
+</div>
+  
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="sidr-main" class="sidr left"><div class="sidr-inner"><a href="#sidr-close" class="sidr-class-toggle-sidr-close"></a></div><div class="sidr-inner">
+          <div id="sidr-id-main-menu" class="sidr-class-menu-main-container">
+            <ul class="sidr-class-menu sidr-class-sf-js-enabled"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/">Home</a></li>
+<li class="sidr-class-expanded sidr-class-active-trail"><a href="/www.aero.iitb.ac.in/home/about" class="sidr-class-active-trail sidr-class-sf-with-ul">About</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/history">History</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/head-of-department">Head Of Department</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/vision-mission">Vision &amp; Mission</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/how-to-reach-us">How to Reach Us</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/industrial-relations">Industrial Relations</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/handbook">Handbook</a></li>
+<li class="sidr-class-leaf sidr-class-active-trail"><a href="/www.aero.iitb.ac.in/home/reports" class="sidr-class-active-trail sidr-class-active">Reports</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="sidr-class-expanded"><a href="/www.aero.iitb.ac.in/home/academics" class="sidr-class-sf-with-ul">Academics</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-expanded"><a href="/www.aero.iitb.ac.in/home/admission" class="sidr-class-sf-with-ul">Admissions</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/postgraduate-program">Postgraduate Program</a></li>
+<li class="sidr-class-leaf"><a href="https://www.ir.iitb.ac.in/en/students/scholarship-foreign-phd-students" title="PhD for Foreign students">PhD for International students</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/undergraduate-program">Undergraduate Program</a></li>
+</ul></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/curriculum">Curriculum</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/seminars-projects">Seminars / Projects Guidelines</a></li>
+</ul></li>
+<li class="sidr-class-expanded"><a href="/www.aero.iitb.ac.in/home/research" class="sidr-class-sf-with-ul">Research</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/aerodynamics">Aerodynamics</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/controls">Dynamics and Control</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/propulsion">Propulsion</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/structures">Structures</a></li>
+</ul></li>
+<li class="sidr-class-expanded"><a href="/www.aero.iitb.ac.in/home/people" class="sidr-class-sf-with-ul">People</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/people/faculty" title="">Faculty</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/people/former-faculty" title="">Former Faculty</a></li>
+<li class="sidr-class-last sidr-class-collapsed"><a href="/www.aero.iitb.ac.in/home/staff">Department Staff</a></li>
+</ul></li>
+<li class="sidr-class-expanded"><a href="/www.aero.iitb.ac.in/home/careers" class="sidr-class-sf-with-ul">Careers</a><ul class="sidr-class-menu"><li class="sidr-class-first sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/careers/faculty-positions">Faculty Positions</a></li>
+<li class="sidr-class-leaf"><a href="http://www.iitb.ac.in/en/careers/staff-recruitment" title="">Staff Positions</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/content/project-staff-positions">Project Staff - Positions</a></li>
+</ul></li>
+<li class="sidr-class-leaf"><a href="https://sites.google.com/iitb.ac.in/iitdroneflyingportal/home" title="Drone Flying Portal" target="_blank" data-extlink="">Drones</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/gallery">Gallery</a></li>
+<li class="sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/video-gallery">Video Gallery</a></li>
+<li class="sidr-class-last sidr-class-leaf"><a href="/www.aero.iitb.ac.in/home/content/faculty-resources">Internal Links</a></li>
+</ul>          </div>
+        </div></div></body></html>

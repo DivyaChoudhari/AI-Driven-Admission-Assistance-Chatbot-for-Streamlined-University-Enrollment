@@ -1,0 +1,182 @@
+Established in 1966-67 as the Department of Aeronautical Engineering, the department was renamed the Department of Aerospace Engineering in 1992. The department runs strong undergraduate and graduate programs in aerospace engineering, and carries out research in several areas of aeronautical and aerospace sciences.
+
+
+
+
+The department has 22 full-time faculty members and around 250 students- over 170 undergraduate students and nearly 80 graduate students. In addition, there are around 40 permanent and 20 temporary staff members who run the administrative offices, laboratories, workshop, drawing office, and are involved with sponsored research work undertaken by the faculty. The department runs academic programs for the degrees of Bachelor of Technology (B Tech), Master of Technology (M Tech), Dual Degree (B Tech and M Tech) and Doctor of Philosophy (Ph D). Five broad areas of specialization are offered: Aerodynamics, Control and Guidance, Propulsion, Structures, and Systems Engineering.
+The faculty are actively involved in research in the areas of Experimental Aerodynamics; Flight Dynamics and Control; Nonlinear Systems and Stability; Composite Materials; Structural Dynamics and Aeroelasticity; Gas Turbine Engines and Rotor Dynamics; Axial Compressor Design and Analysis; Combustion and Heat Transfer; RCS and Infrared Signatures; MDO; Aircraft (UAV and Airship) Design.
+
+
+
+
+Aerospace engineers are concerned with the design, analysis, construction, testing and operation of flight vehicles. The Department of Aerospace engineering, IIT Bombay offers degree programmes in the Aerospace field providing educational opportunities for students seeking higher education. Here you will find all the information related for admissions at the undergraduate and postgraduate levels. Please feel free to contact us with any questions that you might have. Listed below is a detailed procedure of how to apply for a programme at the department. We wish you all the best in you pursuit of studies at the Department of Aerospace Engineering.
+
+
+The aerospace engineering field deals with construction, testing and operation of flight vehicles, including aircrafts, helicopters, rockets and spacecrafts. The courses are based on the fundamentals of fluid dynamics, materials sciences, structural analysis, propulsion, automatic control and guidance and development of computer software.  A number of electives are also available for specialization in areas related to the field. The department offers specializations in the areas of Aerodynamics, Dynamics and Control, Propulsion, Structures and Systems Design and Engineering.
+
+
+The department faculty actively pursue research programs that address basic problems as well as applications in various fields of aerospace science and technology such as:
+Many of the research programs pursued in the department are funded by government agencies such as ARDB and DST, government organizations such as ISRO, DRDO, HAL, BARC and ADA, as well as private industry. While the research and development activities of the department continue to contribute to national aerospace programs, recent years have seen some of the faculty engage in collaborations with research groups at the University of Michigan, University of New South Wales, Georgia Tech, Caltech and RWTH, Aachen.
+In any year, there are typically about 25 sponsored projects underway in the department, including 10 newly granted projects. The research and development activities of the department have contributed significantly to national aerospace programs. At the same time, faculty members also engage in fruitful international collaborations. For the year ending March 2005, faculty members of the department reported their research in around 50 journal and conference publications, many of which were co-authored by students. The department also encourages faculty and students to participate in national and international conferences and professional meetings.
+Current funded research at the department addresses the specific areas of :
+
+
+The Institute offers a 4 year B.Tech or a 5 year Dual Degree programme (DD) in the Aerospace Engineering department. The dual degree programme is the combination of a Bachelor and a Master degree. At the end of his academic stay the student is awared two degrees
+All admissions to the Undergraduate Programs at the institution for all Indian and Foreign nationals are made through the Joint Entrance Examination (JEE) and departments are allocated based on personal preference and the JEE rank. For more details please visithttp://www.jee.iitb.ac.in
+
+Table:
+
+Program	Duration	Eligibilty
+B.Tech	Four Years	10 + 2 or equivalent
+Dual Degree	Five Years	10 + 2 or equivalent
+
+Research activities in Propulsion have been pursued at the Department since its inception in 1967. The Department is also the only one to offer a post graduate specialization in Propulsion amongst all similar departments in India.
+The field of air-breathing propulsion involves various branches of science and engineering. However, only those involving aerodynamics, computational fluid dynamics, aerothermodynamics, structural analysis and materials technology are being pursued at the Department.
+Past research studies have been funded mainly by the Propulsion Panel of the Aeronautics Research and Development Board, and have addressed problems related to gas turbine combustion, turbine heat transfer, blade vibration, rotor vibration, fuel control systems, engine sizing, transonic axial compressors, contra-rotating axial fans, tandem cascades, and turbine material lifing. Each of these studies has formed part of at least one funded research program, supported multiple post graduate students, and lead to publications in national as well as international conferences and journals.
+Apart from the above problems in the field of air-breathing propulsion, some of the basic sciences underlying the propulsion field have been applied to the study of fluid flow and heat transfer in the callandria of a nuclear reactor, and in the development of a spirometer for biomedical applications.
+Present research focuses on swept blades for axial compressors, hypersonic propulsion unit, compressor blade loss modeling, multistage transonic compressor performance prediction, transonic blade profile CFD analysis, gas turbine engine material lifing, CFD analysis of engine intakes, engine component analysis, infrared signature of aircraft engines, stall/surge prediction/indication, and hypersonic aircraft heat transfer. The links below give brief descriptions of some of this work.
+Aerodynamic Heating in Aerospace Vehicles
+As part of ongoing work, a computer code is being developed to predict the time -- temperature history of an entire hypersonic vehicle. Analysis of critical regions like sweptback leading edges has revealed significant differences in the behavior of aerodynamic heating. Part of the work focuses on the optimization of the insulating thermal protection system for a hypersonic vehicle.
+Microchannel Cooling of Gas Turbine Blades
+Basic investigations of behavior of fluid flow & heat transfer at micro scale revealed significant qualitative differences as compared to the macro scale. The effects that surface at the micro scale are being numerically identified. Some of these effects have fundamental repercussions in the understanding of the macro scale behavior as well. At present optimization of micro scale heat sink is in progress in the Department.
+Aerothermal Flow Analysis of the Propulsion Unit of Hypersonic Aircraft
+Ongoing work at the Department focuses on analysis leading to design of a propulsion unit for a hypersonic aircraft. The work involves analysis of various components and performance optimization over the given trajectory.
+Modeling of losses in axial-flow compressors
+As part of work funded by Pratt and Whitney, losses incurred in the rotors and stators of a multi-stage compressor were mathematically modeled. Separate modeling was required for two- and three-dimensional flows. The work resulted in a computer code for computing overall compressor performance based on these loss models.
+A Novel Infrared Signature Suppression System for Helicopter Engines
+Work done at the department has resulted in the conceptualization of an unconventional Infrared Signature Suppression System (IRSS) for helicopter engines. The new IRSS yields a maximum contrast of only 25 deg C with the local background from almost all the view angles of concern. In other words, the IRSS ensures that a helicopter engine operating at the most most critical point of the mission would appear hotter than the surroundings by not more than 25 deg C, making it extremely difficult for a heat-seeking missile to lock on to the helicopter. Without a signature suppressor, the temperature contrast between the engine and the surroundings would exceed 400 deg C. The temperature contrast achieved by the new IRSS is far superior to almost all the IRSS devices reported in open literature, which claim a minimum temperature contrast of 80 deg C. In addition, the reported IRSS devices have relatively significant back-pressure and weight penalties that effectively increase the IR Signature level of the helicopter since the engine has to operate at a higher combustion temperature to overcome the penalties without compromising the mission. In contrast, the IRSS conceptualized in the department has no back-pressure penalty, and an insignificant weight and drag penalty.Part of the work involved making a thermal model that simulates the multi-mode heat transfer including radiation interchange using analytical view factors for discretized geometry.
+Some of the research work conducted using propulsion lab facility is outlined below:
+
+
+
+
+Department Handbook
+Click Here :Batch 2019 - 2021
+
+
+
+
+
+
+
+
+
+Aeroservoelastic Modeling
+In work that has come to be acknowledged as being of national importance, the Department carried out pioneering research and development related to the initiation, development, and successful implementation of aeroservoelastic modeling and analysis to aid the control law development of the unstable fly-by-wire LCA aircraft.
+Aeroservoelastic Analysis CodeA team of faculty from the Department have developed an industry standard state-of-the-art code for aeroelastic and aeroservoelastic computations that is suitable for an organization engaged in aircraft design and development. This code is the first and only one of its kind developed in the country, and is comparable to the best in the field.
+FRP Composite ComponentsThe Department pioneered work within the nation on development and application of composite structures technology to design and manufacture of products from aerospace as well as other engineering fields. Examples of such products and applications include fan blades, salinity gates, railway toilet, chemical containment, and replacements for certain metallic components of MiG 21 aircraft. Some of this work has been recognized by an award of excellence from the Department of Science and Technology, Government of India.
+Mechanical characterization of Textile CompositesInvestigations have been carried out on thermo-mechanical and fracture behavior of textile composites. Further, low velocity impact and ballistic impact studies have been carried out on textile composites and laminated composites made of unidirectional layers. This work is part of a fundamental body of work of acknowledged stature in the area of material behavior of textile composites and has lead to over 40 publications in international journals in addition to three books.
+Rehabilitation aids for the disabledA major experimental program within the Department studied the use of fiber reinforced composites and other lightweight materials in rehabilitation aids for the physically handicapped. The program included evaluation and redesign of the famed Jaipur foot, and led to the development of a carbon fiber composite Floor Reaction Polio Orthosis and modified-sole footwear for insensitive feet.
+
+
+
+
+The department of Aerospace engineering, IIT Bombay has 21 full-time faculty members and around 200 students- over 120 undergraduate students and nearly 80 graduate students. In addition, there are around 40 permanent and 20 temporary staff members who run the administrative offices, laboratories, workshop, drawing office, and are involved with sponsored research work undertaken by the faculty.
+FacultyFormer FacultyStaff
+
+
+
+
+The school is located in the IIT Bombay campus at Powai in Mumbai (erstwhile Bombay). Powai is a suburb in the North-Eastern part of Mumbai.
+The city is very well connected to major cities of India by road, rail and air. It is also well connected to the major international cities. If you arrive in Bombay by train, the nearest important station is Dadar while the nearest suburban railway station is Kanjur Marg, both on the Central Railway Line.
+If you choose to arrive by air, the international flights land at Sahar Airport, which is about 7 kms from IIT. The domestic airport at Santa Cruz is about 10 kms from the campus. There are regular domestic flights to and from all major cities of the country operated by Indian airlines, Jet airways, Air Sahara, Alliance Air, etc. Pre-paid taxis and auto rickshaws are available at the both the airports for Powai.
+There are suburban trains to Kanjur Marg every five minutes on the central railway line. If you come via Western railway, you can board a suburban train and reach Dadar, where you can change to the central railway line and board a suburban train to Kanjur Marg. Please ensure to take only a slow local train as the fast ones do not stop at Kanjur Marg.
+Auto rickshaws are available from Kanjur Marg to inside IIT campus round the clock. The campus is only about 4 kms. from Kanjur Marg railway station.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Aerospace Department, IIT Bombay seeks to establish traditions which will foster creativity and growth of excellence. It has the following broad objectives :
+The Department cherishes the hope that its graduates will be the leaders of tomorrow. Their education is patterned with this in view. Besides making available facilities for higher education, training and research in various fields of engineering and technology, the Institute contributes to the industrial development and economic growth of the country by preparing a cadre of engineers and scientists, who provide both man power and support R&D work for industries.
+
+
+
+
+The department maintains close links with the aerospace and defense industry and undertakes sponsored research, consultancy, and continuing education programs in diverse areas. The faculty has contributed towards national programs like the LCA, IGMDP, GSLV, in various capacities, with spin-off benefits to other fields such as bio-medical engineering. The department has a wide range of experimental facilities such as subsonic and supersonic wind tunnels, water tunnel, stability tunnel, LDV and hot wires, analog and hydraulic simulation rigs, rotor dynamics and engine test rigs, Instron for structural testing, Autoclave for composites fabrication, instrumented drop weight impact test apparatus, and an aeromodeling lab, besides extensive computational facilities with excellent network connectivity. The department aims to provide students with a cordial atmosphere and an opportunity to acquire a multi-disciplinary perspective to engineering problems. The department can boast of alumni like the program director of the LCA program, Dr Kota Harinarayana, who have achieved unparalleled success in their professions.
+
+
+
+
+
+Candidates are advised to visit the Aerospace Engineering Department website athttps://www.aero.iitb.ac.inand check the profiles of the respective faculty members they are interested in working with.
+
+M. Tech admission interviews for IIT B-Tech candidates will be held on 8th May 2023. Interviews for ISRO sponsored candidates, international candidates and other candidates in PS/IS/SW will be held on 9th May 2023.
+M. Tech interviews for sponsored candidates through RNT-PGT scheme will be held later in the summer and coordinated by RAC (see the website for announcements).
+1)AEROSPACE ENGINEERINGAE
+The Master’s degree programme in Aerospace Engineering provides education in multi­disciplinary areas involving  Aerodynamics,  Dynamics & Control, Aerospace Propulsion and Aerospace Structures.
+Eligibility Criterion for Admission
+Candidates having First class or 60% marks (55% marks   for SC/ST) in Bachelor's   degree ( B.E. / B.Tech. or equivalent)    are eligible.  Candidates with degree in Aeronautical or Aerospace   and valid GATE score in any  discipline are are eligible for admission to any of the four specializations (AE1, AE2, AE3 & AE4) .
+Candidates   with   degree   in   other   branches   of   Engineering   (i.e.   Mechanical,   Civil,   Electrical,   Electronics, Instrumentation or allied branches) are eligible for admission to specific specializations of Aerospace Engineering, if they have valid GATE score in disciplines as shown in the table below:
+SpecializationEligibility
+Aerodynamics(AE1)
+Bachelor's degree  in Mechanical Engg./ Cvil Engg. with  valid  GATE  score in ME/CE
+Dynamics & Control (AE2)
+Bachelor’s degree in Mechanical Engg,/ Electrical / Electronics/ Instrumentation Engg.with valid GATE  score in ME / EE/  EC / IN.
+Aerospace Propulsion (AE3)
+Bachelor’s degree in  Mechanical Engg. with valid GATE score in ME.
+Aerospace Structure (AE4)
+Bachelor’s degree in Mechanical Engg./ Civil Engg. with valid GATE score  in ME/CE.
+
+Candidates   having   two   years   of   relevant   work   experience     are   exempted   from   requirement   of   GATE   score, provided their candidature is sponsored by the employer. Sponsored candidates wanting to take up specialisationsmust satisfy eligibility criteria in terms of qualifying degrees as specified above. However, they are not eligible foraward of Teaching/Research Assistantship.
+
+Aerodynamics (AE1) :Experimental Aerodynamics, Experimental Hypersonic Aerothermodynamics, Shock Waves and their applications, Computational Hypersonic Aerothermodynamics, Computational Fluid Dynamics, Computational Electromagnetics, Computation of incompressible multi-phase flow, Vortex and particle methods, Smoothed Particle Hydrodynamics, Vortex flows, Aeroacoustics, Aircraft Design, Air Transportation, Evolutionary Optimization Techniques, Turbulence modeling and applications, Computational studies of scramjet intakes, Supersonic  mixing, Computation of high enthalpy flows, plasma-assisted flow control, Thermoacoustics, Morphing Aircraft, Unmanned Aerial Vehicles, and Lighter Than Air Systems, Helicopter aerodynamics.
+Dynamics and Control (AE2):
+Flight mechanics, guidance, trajectory optimization, navigation, state and parameter estimation, tracking and control of launch vehicle , missiles, aircraft, manned and unmanned aerial vehicles, mini aerial vehicles(MAVs), satellites, multi-agent systems, nonlinear adaptive and robust flight control, integrated navigation systems, air-breathing and gas turbine engine control, swarm, path planning and formation flying of aerial vehicles, hardware–in-loop-simulation, co-operative missions for MAVs.
+Aerospace Propulsion (AE3):
+Aircraft and spacecraft Propulsion, Experimental and numerical studies on detonations, Combustion instabilities , Development of new techniques for emission reduction from combustion systems, Heat Transfer, Infrared Signatures of Aerospace Vehicles, Micro-Channel cooling of Gas Turbine Blades.CFD of propulsive systems, Aerodynamic design and performance analysis of axial flow turbomachines, Flow control of turbomachines and internal duct flows, Computational Hypersonic aerothermodynamics, Turbulence modeling and applications, Computational studies of scramjet engines, Supersonic mixing and combustion, Computational studies of high enthalpy flows, Plasma assisted combustion and flow control, Thermoacoustics, Non- Equilibrium , Thermodynamic of Dissipative Structures, Entropy Generation Studies in Micro-Flows, Fuel atomization and sprays, Optical diagnostics of combustion systems.
+Aerospace Structures (AE4):Structural Health Monitoring, Machine Learning Assisted Uncertainty Quantification, Defects and Damages in Composites, Additive Manufacturing, Wave Propagation in Structures, Aeroelasticity, Aerothermoelasticity, Aeroservoelasticity, Reduced-order Modeling, Structural Dynamics & Stability, Multidisciplinary Optimization, Mechanics of Materials, Computational Materials Science, Experimental Mechanics, Continuum and Computational Mechanics, Electromagnetic Interactions with Solids, Biomechanics, Multiscale modeling of materials, Fracture and Fatigue in Materials.
+
+
+
+Table:
+
+Aerodynamics(AE1)	Bachelor's degree  in Mechanical Engg./ Cvil Engg. with  valid  GATE  score in ME/CE
+Dynamics & Control (AE2)	Bachelor’s degree in Mechanical Engg,/ Electrical / Electronics/ Instrumentation Engg.with valid GATE  score in ME / EE/  EC / IN.
+Aerospace Propulsion (AE3)	Bachelor’s degree in  Mechanical Engg. with valid GATE score in ME.
+Aerospace Structure (AE4)	Bachelor’s degree in Mechanical Engg./ Civil Engg. with valid GATE score  in ME/CE.
+
+
+
+
+Diamond Jubilee Meet and Panel Discussion- 2nd February 2019
+
+
+
+
+Aircraft, launch vehicles and satellites represent complicated aerospace systems comprising of many subsystems that exhibit a wide variety of complex nonlinear dynamical behavior. Examples of such complex behavior include the phenomena of surge and stall of compressors used in jet engines, wing rock oscillations and jump phenomena in combat aircraft, and structural vibrations in flexible space structures. These complex phenomena require equally complex control strategies to meet the stringent performance requirements on aerospace systems. The dynamical behavior of aerospace systems as well as the control strategies that it warrants present a challenge to the analysis and design of aerospace control systems.
+Techniques based on bifurcation theory, nonlinear dynamical systems theory, linear and nonlinear control theory, stability theory, and neural and fuzzy control are being developed and applied to problems in aircraft flight dynamics and control, combustion acoustics, spacecraft attitude dynamics and control, and control of structural vibrations. The following links provide glimpses of recent and ongoing work at the Department in the area of Dynamics and Control.
+Literal Approximations to Aircraft Dynamic Modes
+The derivation of literal approximations to aircraft dynamic modes has engaged the attention of flight dynamicists for nearly a century since the work of Lanchester in the 1900"s. The topic is widely covered in all textbooks, yet it is universally accepted that the present approximations are often unsatisfactory. Attempts by several researchers to address this problem over the years have been largely unsuccessful. The problem has finally been resolved in recent work at IITB which shows that the existing approximations are faulty due to a crucial error in the derivations. A new formulation of the equations for flight stability has been derived and correct literal approximations obtained which are expected to replace the existing presentation in textbooks.
+
+
+
+
+Computational Fluid Dynamics (CFD)
+Research and development in Computational Aerodynamics and Computational Fluid Dynamics (CFD) has been an integral part of the overall activities of the department since the mid-seventies. Early work in this area was strongly coupled with the LCA program and resulted in panel-method-based codes for predicting aerodynamic loads on complete aircraft configurations. These codes have since given way to Euler and Navier Stokes codes for analyzing aerospace configurations of varying complexity. There has been a sustained effort in the area of Grid Generation over almost a decade resulting in IITZeus, a grid generation package capable of generating structured and unstructured multiblock grids for arbitrary three-dimensional configurations. The work mentioned above initially began through various research efforts, and culminated in tools that are used today by the aerospace-related community in the country.
+Recent research and development work has focussed on the use of Finite Volume Time Domain (FVTD) techniques to numerically simulate electromagnetic scattering by aerospace configurations for calculating their Radar Cross Section (RCS), and the development of new CFD algorithms for applications such as computing the flow inside calandria of a nuclear reactor and simulating slosh in launch vehicles. Some recent and ongoing student projects include CFD in the hypersonic regime, simulating gas particle (dusty) flows and Cartesian-grid-based methods for arbitrary configurations.
+Research in CFD is computationally intensive, and requires extensive computational support. CFD research at the department is supported by the Associate Center for CFD, which has several compute servers and workstations. A 16-noded Linux-based parallel cluster is a recent addition to the computational power in the CFD Center. Current parallel applications being investigated include RCS computations for aerospace configuration at the L, S and higher frequency bands.
+A CFD software called IITZeus has been developed in the Department. IITZeus accepts CAD data from CAD systems and carries out CFD analysis including grid generation and post-processing using a variety of algorithms. The Department has developed potential and Euler codes for predicting aerodynamic loads over complete aircraft configurations. These codes have been and are being used for Indian aerospace programs.
+Current work in Computational Electromagnetics (CEM) at the department involves numerical simulation of electromagnetic scattering from three-dimensional aerospace configurations for calculating the Radar Cross Section (RCS). The RCS is the area of a fictitious perfect reflector of electromagnetic waves that would reflect the same amount of energy back to the radar as the actual target, and is a measure of the target's visibility to the radar. The same object has different RCS at various viewing angles and radar frequencies. Reducing the RCS of aerospace configurations has become an important issue in combat applications. This work is being funded in part by ADA and HAL, Bangalore.
+The Programme on Airship Design and Development (PADD) was launched at IIT Bombay in 2001, with team members drawn from various national aerospace organizations and private sector companies in India. PADD aims at developing airship technology in India for various scientific and commercial applications for various roles such as aerial surveillance, disaster management, and advertisement & product promotion. The first phase of PADD, a study project sponsored by Technology information Forecasting & Assessment Council (TIFAC), was completed in 2003. In this Phase, conceptual design studies of airships for transportation of goods and passengers over mountainous terrain under 'hot and high' conditions were carried out. Techno-economic feasibility of leasing airships for operation in India was investigated, and a Project Definition Report for development of two types of airship was proposed in future phases: the PADD Demo and the PADD PaxCargo.
+Two remotely controlled airships, the PADD Micro (with a payload capacity of 1.0 kg) and PADD Mini (with a payload capacity of 3.5 kg) have been designed and developed. Studies are also being carried out in the areas of design and development of stratospheric airships; shape optimization of aerostat and airship envelopes; and development of robust control systems for unmanned airships.
+Some of the work conducted at the Department has resulted in spin offs in the biomedical field. In the year 2002-2003, papers published by the faculty and students of the department appeared in AIAA Journal, Journal of Aircraft, Journal of Aeronautical Society of India, International Journal of Computers and Fluids, Journal of Royal Aeronautical Society, Proceedings of the Royal Society of London, Journal of Reinforced plastics and Composites, Composite Structures, Journal of Composite Materials, Composites Science and Technology, Journal of Sound and Vibration, and Journal of Guidance, Control, and Dynamics.
+The Department also encourages faculty and students to participate in national and international conferences and professional meetings. Current funded research at the department addresses the specific areas of: Theoretical and computational flight dynamics, Nonlinear control laws for high-angle-of-attack flight, Dynamics and control of axial compressor stall/surge, Modeling and dynamics of fuel slosh, Aerodynamic estimation and trajectory simulation of cruciform missile configurations, RCS computation for aerospace bodies, Spacecraft attitude trajectory planning, Structural response reduction using active control, Aerothermal studies in hypersonic flows, Infrared signatures of combat aircraft engines, Mechanical performance of 3D woven composite structures, Design and analysis of propulsion unit for hypersonic vehicles, Design and analysis of transonic axial compressor blading, and Grid generation for CFD analysis.
+
+
+
+
+The Aerospace Department, IIT Bombay seeks to establish traditions which will foster creativity and growth of excellence. It has the following broad objectives :
+The Department cherishes the hope that its graduates will be the leaders of tomorrow. Their education is patterned with this in view. Besides making available facilities for higher education, training and research in various fields of engineering and technology, the Institute contributes to the industrial development and economic growth of the country by preparing a cadre of engineers and scientists, who provide both man power and support R&D work for industries.

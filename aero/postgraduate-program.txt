@@ -1,0 +1,40 @@
+
+Candidates are advised to visit the Aerospace Engineering Department website athttps://www.aero.iitb.ac.inand check the profiles of the respective faculty members they are interested in working with.
+
+M. Tech admission interviews for IIT B-Tech candidates will be held on 8th May 2023. Interviews for ISRO sponsored candidates, international candidates and other candidates in PS/IS/SW will be held on 9th May 2023.
+M. Tech interviews for sponsored candidates through RNT-PGT scheme will be held later in the summer and coordinated by RAC (see the website for announcements).
+1)AEROSPACE ENGINEERINGAE
+The Master’s degree programme in Aerospace Engineering provides education in multi­disciplinary areas involving  Aerodynamics,  Dynamics & Control, Aerospace Propulsion and Aerospace Structures.
+Eligibility Criterion for Admission
+Candidates having First class or 60% marks (55% marks   for SC/ST) in Bachelor's   degree ( B.E. / B.Tech. or equivalent)    are eligible.  Candidates with degree in Aeronautical or Aerospace   and valid GATE score in any  discipline are are eligible for admission to any of the four specializations (AE1, AE2, AE3 & AE4) .
+Candidates   with   degree   in   other   branches   of   Engineering   (i.e.   Mechanical,   Civil,   Electrical,   Electronics, Instrumentation or allied branches) are eligible for admission to specific specializations of Aerospace Engineering, if they have valid GATE score in disciplines as shown in the table below:
+SpecializationEligibility
+Aerodynamics(AE1)
+Bachelor's degree  in Mechanical Engg./ Cvil Engg. with  valid  GATE  score in ME/CE
+Dynamics & Control (AE2)
+Bachelor’s degree in Mechanical Engg,/ Electrical / Electronics/ Instrumentation Engg.with valid GATE  score in ME / EE/  EC / IN.
+Aerospace Propulsion (AE3)
+Bachelor’s degree in  Mechanical Engg. with valid GATE score in ME.
+Aerospace Structure (AE4)
+Bachelor’s degree in Mechanical Engg./ Civil Engg. with valid GATE score  in ME/CE.
+
+Candidates   having   two   years   of   relevant   work   experience     are   exempted   from   requirement   of   GATE   score, provided their candidature is sponsored by the employer. Sponsored candidates wanting to take up specialisationsmust satisfy eligibility criteria in terms of qualifying degrees as specified above. However, they are not eligible foraward of Teaching/Research Assistantship.
+
+Aerodynamics (AE1) :Experimental Aerodynamics, Experimental Hypersonic Aerothermodynamics, Shock Waves and their applications, Computational Hypersonic Aerothermodynamics, Computational Fluid Dynamics, Computational Electromagnetics, Computation of incompressible multi-phase flow, Vortex and particle methods, Smoothed Particle Hydrodynamics, Vortex flows, Aeroacoustics, Aircraft Design, Air Transportation, Evolutionary Optimization Techniques, Turbulence modeling and applications, Computational studies of scramjet intakes, Supersonic  mixing, Computation of high enthalpy flows, plasma-assisted flow control, Thermoacoustics, Morphing Aircraft, Unmanned Aerial Vehicles, and Lighter Than Air Systems, Helicopter aerodynamics.
+Dynamics and Control (AE2):
+Flight mechanics, guidance, trajectory optimization, navigation, state and parameter estimation, tracking and control of launch vehicle , missiles, aircraft, manned and unmanned aerial vehicles, mini aerial vehicles(MAVs), satellites, multi-agent systems, nonlinear adaptive and robust flight control, integrated navigation systems, air-breathing and gas turbine engine control, swarm, path planning and formation flying of aerial vehicles, hardware–in-loop-simulation, co-operative missions for MAVs.
+Aerospace Propulsion (AE3):
+Aircraft and spacecraft Propulsion, Experimental and numerical studies on detonations, Combustion instabilities , Development of new techniques for emission reduction from combustion systems, Heat Transfer, Infrared Signatures of Aerospace Vehicles, Micro-Channel cooling of Gas Turbine Blades.CFD of propulsive systems, Aerodynamic design and performance analysis of axial flow turbomachines, Flow control of turbomachines and internal duct flows, Computational Hypersonic aerothermodynamics, Turbulence modeling and applications, Computational studies of scramjet engines, Supersonic mixing and combustion, Computational studies of high enthalpy flows, Plasma assisted combustion and flow control, Thermoacoustics, Non- Equilibrium , Thermodynamic of Dissipative Structures, Entropy Generation Studies in Micro-Flows, Fuel atomization and sprays, Optical diagnostics of combustion systems.
+Aerospace Structures (AE4):Structural Health Monitoring, Machine Learning Assisted Uncertainty Quantification, Defects and Damages in Composites, Additive Manufacturing, Wave Propagation in Structures, Aeroelasticity, Aerothermoelasticity, Aeroservoelasticity, Reduced-order Modeling, Structural Dynamics & Stability, Multidisciplinary Optimization, Mechanics of Materials, Computational Materials Science, Experimental Mechanics, Continuum and Computational Mechanics, Electromagnetic Interactions with Solids, Biomechanics, Multiscale modeling of materials, Fracture and Fatigue in Materials.
+
+
+
+Table:
+
+Aerodynamics(AE1)	Bachelor's degree  in Mechanical Engg./ Cvil Engg. with  valid  GATE  score in ME/CE
+Dynamics & Control (AE2)	Bachelor’s degree in Mechanical Engg,/ Electrical / Electronics/ Instrumentation Engg.with valid GATE  score in ME / EE/  EC / IN.
+Aerospace Propulsion (AE3)	Bachelor’s degree in  Mechanical Engg. with valid GATE score in ME.
+Aerospace Structure (AE4)	Bachelor’s degree in Mechanical Engg./ Civil Engg. with valid GATE score  in ME/CE.
+
+
+
